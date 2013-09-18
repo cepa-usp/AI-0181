@@ -1,0 +1,10 @@
+h1. Euler Angles
+
+An expositive simulation of ballistic launch. User contols speed and angle of launch, gravity, air resistance and energies. This simulation is internationalized. Translations available: en-US and pt-BR.
+
+h3. Dependencies
+
+* "CEPALib":https://github.com/cepa-usp/cepalib-java
+* "Java3D":http://www.oracle.com/technetwork/java/javase/tech/index-jsp-138252.html
+* "Loader3DS":http://sourceforge.net/projects/java3dsloader/?source=dlp
+* "StarfireExt":http://www.mnstarfire.com/download/inspector3ds.html
